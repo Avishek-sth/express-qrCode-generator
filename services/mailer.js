@@ -30,4 +30,4 @@ const mailer = async (data) => {
   return info?.messageId;
 };
 
-module.exports = mailler;
+module.exports = mailer;
